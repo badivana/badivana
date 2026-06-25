@@ -1,93 +1,183 @@
-# Hi there 👋, I'm Prajwal B T
+# Hi 👋, I'm Prajwal B T
 
-### Information Science Engineering Student | AI & Full-Stack Developer | NCC Cadet
+### 💻 Information Science Engineering Student | Python Developer | Web Developer | AI/ML Enthusiast
 
-I am a final-year Information Science Engineering student passionate about solving real-world problems through software development and Artificial Intelligence.
-
-Currently, I am focused on:
-
-* 📚 Data Structures & Algorithms
-* 🤖 Machine Learning & Computer Vision
-* 🌐 Full-Stack Web Development
-* 💻 Open Source Learning
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=badivana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 About Me
 
-* 🩻 AI Chest X-ray Pneumonia Detection using PyTorch
-* 🌐 Full-Stack Placement Portal
-* 🎓 EduBoard Educational Website
-* 📊 Data Science & Machine Learning Projects
+* 🎓 Information Science Engineering Student
+* 💻 Passionate about Python, Web Development, and Artificial Intelligence
+* 🌱 Currently learning React.js, Node.js, and System Design
+* 🧩 Solving Data Structures & Algorithms problems daily
+* 🚁 Interested in Aeromodelling, UAV Systems, and Computer Vision
+* 🎯 Looking for Software Development & AI/ML opportunities
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-
----
-
-### Frameworks & Libraries
-
-* PyTorch
-* Flask
-* React (Learning)
-* Node.js (Learning)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 ---
 
-### Tools
+### 🌐 Web Development
 
-* Git
-* GitHub
-* VS Code
-* Linux
-* Google Colab
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badivana\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badivana\&layout=compact\&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=badivana\&theme=github-dark)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-success?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+### 🤖 Python & AI
 
-* 🥇 Winner of Multiple National Aeromodelling Competitions
-*    Represented Karnataka & Goa Directorate in NCC
-* 🏑 District-Level Hockey Player
-* 🚁 UAV & AI Enthusiast
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 🩻 AI Chest X-ray Pneumonia Detection
+
+Deep Learning project built using PyTorch for Pneumonia Detection from Chest X-ray Images.
+
+### 🎓 EduBoard
+
+Responsive educational website built using HTML, CSS, and JavaScript.
+
+### 💻 DSA Practice
+
+Collection of Data Structures and Algorithms problems solved in Python.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=badivana&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badivana&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=badivana&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=badivana&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=badivana&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚀 Express.js
+* ☁️ MongoDB
+* 📚 System Design
+* 🧠 Advanced Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
 
 * ✅ Solve 500+ DSA Problems
 * ✅ Build 10+ Quality Projects
+* ✅ Master Full-Stack Development
+* ✅ Learn Advanced Machine Learning
 * ✅ Contribute to Open Source
 * ✅ Secure a Software Development Role
-* ✅ Learn System Design
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect With Me
 
-* GitHub: https://github.com/badivana
-* LinkedIn: *(Add your LinkedIn URL here)*
+<p>
+
+<a href="https://github.com/badivana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- Replace with your email -->
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-> *"Consistency beats intensity. Build something every day."* 🚀
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
