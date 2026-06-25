@@ -67,7 +67,7 @@ Currently, I am focused on:
 ## 🏆 Achievements
 
 * 🥇 Winner of Multiple National Aeromodelling Competitions
-* 🇮🇳 Represented Karnataka & Goa Directorate in NCC
+*    Represented Karnataka & Goa Directorate in NCC
 * 🏑 District-Level Hockey Player
 * 🚁 UAV & AI Enthusiast
 
