@@ -84,9 +84,9 @@
 
 Deep Learning project built using PyTorch for Pneumonia Detection from Chest X-ray Images.
 
-### 🎓 EduBoard
+### 🎓  Driving Monitor in Python
 
-Responsive educational website built using HTML, CSS, and JavaScript.
+Project using computer vision to monitor driving
 
 ### 💻 DSA Practice
 
@@ -122,24 +122,13 @@ Collection of Data Structures and Algorithms problems solved in Python.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=badivana&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-* ⚛️ React.js
-* 🟢 Node.js
-* 🚀 Express.js
-* ☁️ MongoDB
-* 📚 System Design
-* 🧠 Advanced Data Structures & Algorithms
+- Advanced Data Structures & Algorithms
+- System Design
+- Full-Stack Development (React, Node.js, Express.js)
+- Operating Systems, DBMS & Computer Networks
+- Machine Learning & Computer Vision
 
 ---
 
@@ -164,13 +153,13 @@ Collection of Data Structures and Algorithms problems solved in Python.
 
 <!-- Replace with your LinkedIn URL -->
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/prajwalbadivana">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <!-- Replace with your email -->
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:badivanaprajwal@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
