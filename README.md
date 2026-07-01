@@ -150,15 +150,6 @@ https://github.com/badivana/Leetcode
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=badivana&theme=github-dark"/>
-
-</p>
-
----
 
 # 🌱 Currently Exploring
 
