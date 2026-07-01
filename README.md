@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prajwal B T
 
-### Full-Stack Developer | AI/ML Enthusiast | Information Science Undergraduate
+### Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=badivana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -10,11 +10,17 @@
 
 # 👨‍💻 About Me
 
-* 🎓 B.Tech in Information Science and Engineering at **NMAM Institute of Technology (NMAMIT)**.
-* 💻 Passionate about **Full-Stack Development**, **Backend Engineering**, and **Artificial Intelligence**.
-* 🚀 Experienced in building scalable web applications, RESTful APIs, and machine learning solutions.
-* 🧠 Continuously improving my problem-solving skills through Data Structures & Algorithms.
-* 🎯 Interested in Software Development, AI/ML, Backend Systems, and Computer Vision.
+🎓 **B.Tech in Information Science & Engineering**
+NMAM Institute of Technology (NMAMIT), Karnataka
+
+I'm a Software Engineering student passionate about building scalable software, backend systems, and AI-powered applications. I enjoy transforming ideas into practical solutions through full-stack development, machine learning, and computer vision.
+
+* 💻 Building Full-Stack Web Applications
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* ⚡ Developing REST APIs and Backend Systems
+* 🧠 Practicing Data Structures & Algorithms
+* 🚁 Interested in Computer Vision, UAV Systems & Aeromodelling
+* 🎯 Seeking Software Development & AI/ML opportunities
 
 ---
 
@@ -86,16 +92,23 @@
 
 ## 📚 EduBoard – Full-Stack MERN Learning Platform
 
-A complete MERN-based e-learning platform featuring JWT authentication, role-based access control, course management, enrollments, reviews, profile management, search, filtering, pagination, and student progress tracking.
+A modern e-learning platform built with the MERN stack featuring secure JWT authentication, role-based access control, course management, enrollments, reviews, search, filtering, pagination, and student progress tracking.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB
 
 **Repository:**
 🔗 https://github.com/badivana/Eduboard
+
+**Live Demo:**
+🌐 *Coming Soon*
 
 ---
 
 ## 🩺 Chest X-Ray Pneumonia Classification
 
-A deep learning project using PyTorch and ResNet50 for automated pneumonia detection from chest X-ray images, achieving **94.3% validation accuracy**.
+Deep learning project using PyTorch and ResNet50 for automated pneumonia detection from chest X-ray images with **94.3% validation accuracy**.
+
+**Tech Stack:** Python • PyTorch • ResNet50
 
 **Repository:**
 🔗 https://github.com/badivana/Chest-X-Ray-Classification
@@ -104,19 +117,30 @@ A deep learning project using PyTorch and ResNet50 for automated pneumonia detec
 
 ## 🚗 Driver Drowsiness Detection System
 
-A real-time driver monitoring system using OpenCV and MediaPipe FaceMesh with EAR, MAR, PERCLOS, and head pose estimation for fatigue detection.
+A real-time driver monitoring system using OpenCV and MediaPipe FaceMesh implementing EAR, MAR, PERCLOS, and head pose estimation to detect driver fatigue.
+
+**Tech Stack:** Python • OpenCV • MediaPipe
 
 **Repository:**
 🔗 https://github.com/badivana/Driving-Monitor-in-Python
 
 ---
 
-## 💻 LeetCode Solutions
+## 🏆 Achievements
 
-A collection of Data Structures & Algorithms solutions implemented in Python for interview preparation.
+* 🥇 Winner – Boeing Aeromodelling Competition Finals (RVCE Bangalore)
+* 🏅 Winner/Podium Finisher at competitions hosted by IIT Kanpur, IIT Madras, NITK Surathkal, VIT Vellore, and RVCE Bangalore
+* 🇮🇳 Represented Karnataka at the National Youth Festival
+* 🎖️ Active NCC Cadet with participation in national-level camps
+* 🏑 District-Level Hockey Achievements
 
-**Repository:**
-🔗 https://github.com/badivana/Leetcode
+---
+
+# 📄 Resume
+
+📥 **Download Resume**
+
+> *(Replace this placeholder with your resume link when ready.)*
 
 ---
 
@@ -138,6 +162,20 @@ A collection of Data Structures & Algorithms solutions implemented in Python for
 
 </p>
 
+📧 **Email:** [badivanaprajwal@gmail.com](mailto:badivanaprajwal@gmail.com)
+
+📱 **Phone:** +91 7760015744
+
+💼 **LinkedIn:** https://www.linkedin.com/in/prajwalbadivana
+
+💻 **GitHub:** https://github.com/badivana
+
 ---
 
-> **"Code. Learn. Build. Improve. Repeat."**
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that solves real-world problems, one project at a time."*
+
+</div>
