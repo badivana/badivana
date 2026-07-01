@@ -100,7 +100,8 @@ A modern e-learning platform built with the MERN stack featuring secure JWT auth
 🔗 https://github.com/badivana/Eduboard
 
 **Live Demo:**
-🌐 *Coming Soon*
+🌐 
+eduboard-git-main-badivanas-projects.vercel.app
 
 ---
 
