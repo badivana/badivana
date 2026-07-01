@@ -1,6 +1,6 @@
-# Hi there, I'm Prajwal B T 👋
+# Hi 👋, I'm Prajwal B T
 
-### Full-Stack Developer • AI/ML Enthusiast • Information Science Undergraduate
+### 💻 Full-Stack Developer | AI/ML Enthusiast | Information Science Undergraduate
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=badivana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -10,21 +10,18 @@
 
 ## 👨‍💻 About Me
 
-🎓 Information Science and Engineering undergraduate at **NMAM Institute of Technology**
-
-💻 Passionate about building scalable software, backend systems, and AI-powered applications.
-
-🚀 Interested in Full-Stack Development, Machine Learning, Computer Vision, and Backend Engineering.
-
-🧩 Regularly solving Data Structures & Algorithms problems and building real-world projects.
-
-🏆 National-level Aeromodelling competitor and active NCC cadet.
+* 🎓 Information Science and Engineering undergraduate at **NMAM Institute of Technology**
+* 💻 Passionate about Full-Stack Development, Backend Engineering, and Artificial Intelligence
+* 🚀 Experienced in building MERN applications, REST APIs, and Machine Learning solutions
+* 🧩 Regularly solving Data Structures & Algorithms problems
+* 🚁 Interested in Computer Vision, UAV Systems, and Aeromodelling
+* 🎯 Seeking Software Development and AI/ML opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## 👨‍💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +30,9 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Frontend
+---
+
+## 🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -41,16 +40,21 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
 
-### Backend
+---
+
+## ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 </p>
 
-### Databases
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
@@ -58,18 +62,23 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
 </p>
 
-### Machine Learning
+---
+
+## 🤖 Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-### Tools
+---
+
+## 🛠️ Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
@@ -79,6 +88,8 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
 </p>
 
 ---
@@ -87,30 +98,37 @@
 
 ## 📚 EduBoard – Full-Stack MERN Learning Platform
 
-* JWT Authentication
-* Role-Based Access Control
-* Course Management
-* Student Progress Tracking
-* Reviews & Enrollments
-* React • Node.js • Express • MongoDB
+A complete e-learning platform featuring JWT authentication, role-based access control, course management, enrollments, reviews, profile management, and progress tracking.
+
+**🔗 Repository:**
+https://github.com/badivana/Eduboard
 
 ---
 
 ## 🩺 Chest X-Ray Pneumonia Classification
 
-Deep learning model using **PyTorch** and **ResNet50** achieving **94.3% validation accuracy** for automated pneumonia detection from chest X-ray images.
+Deep learning project using **PyTorch** and **ResNet50** for automated pneumonia detection from chest X-ray images, achieving **94.3% validation accuracy**.
+
+**🔗 Repository:**
+https://github.com/badivana/Chest-X-Ray-Classification
 
 ---
 
-## 🚗 Driver Drowsiness Detection
+## 🚗 Driver Drowsiness Detection System
 
 Real-time driver monitoring system using **OpenCV** and **MediaPipe FaceMesh** with EAR, MAR, PERCLOS, and head pose estimation running at **25–30 FPS**.
+
+**🔗 Repository:**
+https://github.com/badivana/Driving-Monitor-in-Python
 
 ---
 
 ## 💻 LeetCode Solutions
 
-A growing collection of Data Structures & Algorithms solutions implemented in Python.
+Collection of Data Structures & Algorithms solutions implemented in Python.
+
+**🔗 Repository:**
+https://github.com/badivana/Leetcode
 
 ---
 
@@ -132,7 +150,7 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -145,15 +163,15 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 # 🌱 Currently Exploring
 
 * System Design
-* Advanced Data Structures & Algorithms
 * Backend Architecture
+* Advanced Data Structures & Algorithms
 * Machine Learning
 * Computer Vision
 * Agentic AI
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
 <p>
 
@@ -161,7 +179,7 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/prajwalbadivana">
+<a href="https://www.linkedin.com/in/prajwalbadivana">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -173,4 +191,4 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 
 ---
 
-> *"Code with purpose. Learn continuously. Build solutions that make an impact."*
+> **"Code with purpose. Learn continuously. Build solutions that create impact."**
