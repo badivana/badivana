@@ -1,6 +1,6 @@
-# Hi 👋, I'm Prajwal B T
+# Hi there, I'm Prajwal B T 👋
 
-### 💻 Information Science Engineering Student | Python Developer | Web Developer | AI/ML Enthusiast
+### Full-Stack Developer • AI/ML Enthusiast • Information Science Undergraduate
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=badivana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -8,69 +8,74 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Information Science Engineering Student
-* 💻 Passionate about Python, Web Development, and Artificial Intelligence
-* 🌱 Currently learning React.js, Node.js, and System Design
-* 🧩 Solving Data Structures & Algorithms problems daily
-* 🚁 Interested in Aeromodelling, UAV Systems, and Computer Vision
-* 🎯 Looking for Software Development & AI/ML opportunities
+🎓 Information Science and Engineering undergraduate at **NMAM Institute of Technology**
+
+💻 Passionate about building scalable software, backend systems, and AI-powered applications.
+
+🚀 Interested in Full-Stack Development, Machine Learning, Computer Vision, and Backend Engineering.
+
+🧩 Regularly solving Data Structures & Algorithms problems and building real-world projects.
+
+🏆 National-level Aeromodelling competitor and active NCC cadet.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-### 🌐 Web Development
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
 
----
-
-### 🤖 Python & AI
+### Backend
 
 <p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+</p>
+
+### Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 </p>
 
----
-
-### 🗄️ Database
+### Tools
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
@@ -78,19 +83,34 @@
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🩻 AI Chest X-ray Pneumonia Detection
+## 📚 EduBoard – Full-Stack MERN Learning Platform
 
-Deep Learning project built using PyTorch for Pneumonia Detection from Chest X-ray Images.
+* JWT Authentication
+* Role-Based Access Control
+* Course Management
+* Student Progress Tracking
+* Reviews & Enrollments
+* React • Node.js • Express • MongoDB
 
-### 🎓  Driving Monitor in Python
+---
 
-Project using computer vision to monitor driving
+## 🩺 Chest X-Ray Pneumonia Classification
 
-### 💻 DSA Practice
+Deep learning model using **PyTorch** and **ResNet50** achieving **94.3% validation accuracy** for automated pneumonia detection from chest X-ray images.
 
-Collection of Data Structures and Algorithms problems solved in Python.
+---
+
+## 🚗 Driver Drowsiness Detection
+
+Real-time driver monitoring system using **OpenCV** and **MediaPipe FaceMesh** with EAR, MAR, PERCLOS, and head pose estimation running at **25–30 FPS**.
+
+---
+
+## 💻 LeetCode Solutions
+
+A growing collection of Data Structures & Algorithms solutions implemented in Python.
 
 ---
 
@@ -112,7 +132,7 @@ Collection of Data Structures and Algorithms problems solved in Python.
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -122,28 +142,18 @@ Collection of Data Structures and Algorithms problems solved in Python.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-- Advanced Data Structures & Algorithms
-- System Design
-- Full-Stack Development (React, Node.js, Express.js)
-- Operating Systems, DBMS & Computer Networks
-- Machine Learning & Computer Vision
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Solve 500+ DSA Problems
-* ✅ Build 10+ Quality Projects
-* ✅ Master Full-Stack Development
-* ✅ Learn Advanced Machine Learning
-* ✅ Contribute to Open Source
-* ✅ Secure a Software Development Role
+* System Design
+* Advanced Data Structures & Algorithms
+* Backend Architecture
+* Machine Learning
+* Computer Vision
+* Agentic AI
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
 <p>
 
@@ -151,22 +161,16 @@ Collection of Data Structures and Algorithms problems solved in Python.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Replace with your LinkedIn URL -->
-
 <a href="https://linkedin.com/in/prajwalbadivana">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<!-- Replace with your email -->
-
 <a href="mailto:badivanaprajwal@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> *"Code with purpose. Learn continuously. Build solutions that make an impact."*
