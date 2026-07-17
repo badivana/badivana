@@ -141,7 +141,7 @@ A real-time driver monitoring system using OpenCV and MediaPipe FaceMesh impleme
 
 📥 **Download Resume**
 
-> *soon*
+> (https://drive.google.com/file/d/1PLJhQ_X-WgCeV_RLsDsM7aYnhoapQWa0/view?usp=sharing)
 
 ---
 
